@@ -305,7 +305,7 @@ Aplicação mobile integrada a uma API REST para demonstrar comunicação entre 
 
 ## **🎞️ Vídeo Demonstrativo do Projeto**
 
-
+[![Assista ao vídeo](https://img.youtube.com/vi/sTqOvJN18Ds/maxresdefault.jpg)](https://youtube.com/shorts/sTqOvJN18Ds)
 
 ---
 
